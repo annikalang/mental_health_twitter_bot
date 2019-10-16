@@ -16,6 +16,9 @@ gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
 
+gem 'twitter', '~> 6.2'
+gem 'figaro', '~> 1.1', '>= 1.1.1'
+
 group :development do
   gem 'web-console', '>= 3.3.0'
 end
